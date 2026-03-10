@@ -19,8 +19,8 @@ The pipeline generates:
 * `Max_Aroma_Summary.xlsx`
 * `Panelist_Raw_Votes.xlsx`
 * `Aroma_Category_Percentages.xlsx`
-* Aroma vote plots per LM
-* Breeder-friendly percent profile plots
+* LM_XXX_PG_CATA_plot.png
+* LM_Percent_Profile.png plots in a subfolder
 
 All outputs are exported automatically to the defined output directory.
 
